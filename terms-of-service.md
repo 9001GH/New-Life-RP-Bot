@@ -1,9 +1,9 @@
 # Terms of Service
 
-This bot, 🇩🇪New-Life RP VC🎙️, is intended for private and limited use on approved servers only.
+Our Bots, 🇩🇪New-Life RP VC🎙 and 🇩🇪New-Life RP VC🎙️ Ticket System, are intended for private and limited use on approved servers only.
 
-Use of the bot on unauthorized servers is not permitted without explicit permission from the developer.
+Use of the bots on unauthorized servers is permitted without explicit permission from the Owner.
 
-The developer is not liable for any misuse, data loss, or abuse related to the use of this bot.
+The Owner is not liable for any misuse, data loss, or abuse related to the use of these bots.
 
-By inviting or using this bot, you agree to these terms.
+By inviting or using our bots, you agree to these terms.
