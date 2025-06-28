@@ -1,6 +1,6 @@
 # Privacy Policy
 
-🇩🇪New-Life RP VC🎙️ does not collect, store, or share any personal data outside of Discord.
+"🇩🇪New-Life RP VC🎙️" neither "🇩🇪New-Life RP VC🎙️ Ticket System" collect, store, or share any personal data outside of Discord.
 
 Our Bots may log server IDs, user IDs, and message content for moderation purposes.
 
